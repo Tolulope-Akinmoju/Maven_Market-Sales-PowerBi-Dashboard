@@ -3,7 +3,7 @@
 
 
 # Summary
-
+Maven Market is a multi-national grocery chain with locations in Canada, Mexico and the United States. In this report,I worked through the entire business intelligence workflow: connecting and shaping the source data, building a relational model, adding calculated columns and measures, and then finalling, I  designed an interactive report using PowerBI.
 
 
 # Relational Model
